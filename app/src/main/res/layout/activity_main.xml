@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:orientation="vertical"
+    tools:context="com.pul.sam.Cycle.MainActivity">
+
+    <TextView
+        android:id="@+id/latTest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lat"/>
+
+    <TextView
+        android:id="@+id/lonTest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lon"/>
+
+    <TextView
+        android:id="@+id/latMax"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Max"/>
+
+    <TextView
+        android:id="@+id/latMin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Min"/>
+
+    <TextView
+        android:id="@+id/lonMax"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Max"/>
+
+    <TextView
+        android:id="@+id/lonMin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Min"/>
+
+    <TextView
+        android:id="@+id/trailsTest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Trails"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical">
+
+    </android.support.v7.widget.RecyclerView>
+
+</LinearLayout>

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\34c21d0e87199d72cc68830373127155e2e67f3f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6e2adfaaf66344ff5cb04fe3eefd7110febc035\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_472668ea73c78e5b068048e9f79eed6b2f1b5c05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_479ea1f667b99d2b7a87c59c1493d6cc29aa159d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\02b6e33f8904c3fc68cb9724d56652c8f2bb3756\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94573eaa34487295407ea3063b4ab8ee254be484\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e238ee2179aec00df6a422831f27f28d7d234b26">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4d43fa8baadc658f64d3970b74b85d907ec302d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-2.0.1_759a915d0277a4f42bf5c774d8478bc2aac62522\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\a8e6dc89f182715f491a6a4994eebebfe9a8e216\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9ad4a29978caa4a4f14a605a8b5b4dc98e0cb02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\564bc37287a62f63ab2f36e72123c9e7d4378889\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_266981c63c869a943476144e7fea5e10dcd57212\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\cdc1909f21811678a7e5bba90be209e2f0e7e646\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7efb53c3a323778a28de7ac75f513e1a3dfbe956\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\889ad8d7deac2f37d4b1abeea54bb5d701417d22\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4099d73655affa0a6b83a32d288bdc07615d90ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.annotation-api-1.2_1b8c99a57ab19160a2eaecb98c42461445dab18d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\a39f3f0204b1ac97b8c505d5228a1365e0203076\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac8d6780f15b52c5b264830f19493721d9891627\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_1a264215233e77b7e5d80b11d82ec93145853301\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_862bc68c122c27fb565f41b6d0c8b3c246e9f1ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\726d473898c0d2de8e7c8a4f0829b197050cc63f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9db2652c5f4d08448b28e6ee44b6927a969b6f33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\75f16358c04914e3688646fde43828233f04abca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89306058ee5472dbd357521751e832d6587f92f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.12_aad70a692ac5f93275242b626885e6ae74f93527\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-1.9.0_5ae8fe76e0bb88864b3ff3d362e6443b41a6a000\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\2d73a3a867c49b76d068db8c3d9987aaeb9bc6a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb5ccf83d06b3a7a8f389894d6fe5eec6b1d4e07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.0.0\afe8399d352713b66e597e9670c741d1e60ae923\okhttp-urlconnection-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="afe8399d352713b66e597e9670c741d1e60ae923">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-2.0.0_3483ee26e4baef43cd0189e1c0b8d4f7a0dafccc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\418fda5614958237e26c771afbbddf3195f56139\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc7e03996061527a684b7a06dae2e9edbb2f9a55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-library-1.3_119f05a39a17ca3a8aa38fdc9c37765ab4cb6796\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\8810cdc0dd14e33649a346f44f43defa0853e205\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb43c161488aefa0ac3d912a1825f13e6d6bbbb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\ee5abe23d3ab562d94a5466f6d7146f48c2925ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a2c5efcfef46ee41be6cbea68d70ec0603a34532\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\252a52b64ee6eceeda833df4402efa8184aba9c7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0db0859d5e3c7479680aef4dc30b90ab0c606354\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.0.0\4c8d1536dba3812cc1592090dc20c47a4ed3c35e\okhttp-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.0.0_60e7cf11e74e119625e5d82e08b1c5b74bcdd134\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.0.11\8eb541fb917b86ce451e23916bd89f8259660638\rxjava-1.0.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8eb541fb917b86ce451e23916bd89f8259660638">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.0.11_def45bba417d6fdec3e4e1f1c571af60d464a525\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\767ea19f6c100d6f9c665bdc50b549abf4bd4ca3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed225f7aa8647d9e73986b1d65b384e41f8ef48f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-integration-1.3_0d7a69b9617a5af4d180ef8385338b761d2b0c61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\bf2e4d88a2ae4a27c11d500142b2cc877d292ee9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ff8599e4491eea5f2fd159ca9cd058ac534a530\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\f0c4dfdc9673b53c7853d60e5f2b59a378354e11\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9e6741c9884cbbf9772810dc470dfdfd627449a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\3ab8c1110894e2c083f00fb86901cabd5d071c78\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3bf7fcaf1372e513b46514bc2abeb129cee4e3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_ba0cb0c65019c4060efecc599c0de9c921b896df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.3_fd7e9b50672ebc45dd3402d6e6ed94794b58d754\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\df6ef803a0fdb84dc8e006ac527fafd394db6a88\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a391ae8b644a3d53aed638d627a57c87c362ff53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\e6c9f011c7dd7d73b2c57000a499b47493f76617\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed7021a51eb386f80f8e2baf46d60562b4f55c9f">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a7fa56af229512ba7e51719ad025b5dcc8d40434\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\javawriter-2.1.1_7a268d0ce696c32516b6ce2e0fc6b63e778a66e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.0.0\2534c458682c73f5b9871131ab3098d3f987ca3\okio-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.0.0_dcb70bd0cc182c816f4f3a7faffa3e499a8593ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sam_p\.android\build-cache\eb134ceb3622927d0ff73a606781b11b9a74bfd9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="C:\Users\sam_p\Google Drive\Android Studio\CycleUK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_700b32bf32de3acaba6e06898e407c768e99dbd9\classes.dex" />
+    </item>
+
+</items>
